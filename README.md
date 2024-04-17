@@ -1,1 +1,1 @@
-# bayesopt_obdc
+# Code repository for "Bayesian Optimization for Identification of Optimal Biological Dose Combinations in Personalized Dose-Finding Trials"
